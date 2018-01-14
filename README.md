@@ -1,6 +1,6 @@
 # hello-world2
-just another god damn attempt
 
+I deleted the first line and added this one hehe
 
 Here's some BS about me
 
